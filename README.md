@@ -1,6 +1,9 @@
-# Jurassic Jump: The Dragon Escape
+# Dino Dash: The Dragon Escape
 
 A classic 2D side-scrolling survival game built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. Take control of a dinosaur and survive as long as possible by jumping over a relentless dragon obstacle.
+
+## 🔗 Live Demo
+You can play the game live here: [jurassic-jump.vercel.app](https://jurassic-jump.vercel.app)
 
 ## 🎮 Features
 * **Smooth Animations:** Utilizes CSS keyframes for fluid jumping and obstacle movement.
@@ -9,7 +12,7 @@ A classic 2D side-scrolling survival game built using **HTML5**, **CSS3**, and *
 * **Immersive Audio:** Features background music and specific sound effects for Game Over events.
 
 ## 🕹️ How to Play
-1. **Launch:** Open `index.html` in any modern web browser.
+1. **Launch:** Visit the [Live Link](https://jurassic-jump.vercel.app) or open `index.html` locally.
 2. **Jump:** Press the **Up Arrow Key** to jump over the dragon.
 3. **Score:** Successfully dodging the dragon increases your score.
 4. **Game Over:** If you collide with the dragon, the game stops and plays a game-over sound.
